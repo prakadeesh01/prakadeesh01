@@ -131,21 +131,35 @@ I am passionate about transforming complex data into **actionable insights** and
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🧠 Featured Repositories
+## 🔧 Featured Projects
 
-Here are some of my notable repositories:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/genai_tutorial">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=genai_tutorial&theme=radical" alt="GenAI Tutorial" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/deepmatch-x">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=deepmatch-x&theme=radical" alt="DeepMatch-X" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/spanglish-net">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=spanglish-net&theme=radical" alt="Spanglish Net" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/tldr-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=tldr-bot&theme=radical" alt="TLDR Bot" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- [DeepMatch-X](https://github.com/prakadeesh01/deepmatch-x): An AI-powered pipeline that extracts structured data from resumes and job descriptions using NER and transformer embeddings to compute semantic similarity and streamline candidate-job matching.
-
-- [SpanGlishNet](https://github.com/prakadeesh01/spanglish-net): A lightweight, bidirectional English–Spanish neural machine translation system using pretrained MarianMT models.
-
-- [Machine Learning Specialization Coursera](https://github.com/prakadeesh01/Machine-Learning-Specialization-Coursersa): Solutions to the Lab & Assignments of the Machine Learning Specialization from Deeplearning.AI on Coursera taught by Andrew Ng.
-
-- [Deep Learning Specialization Coursera](https://github.com/prakadeesh01/Deep-Learning-Specialization-Coursera): Personal solutions, notes, and materials from the Deep Learning Specialization offered by DeepLearning.AI and taught by Andrew Ng on Coursera.
-
-- [TensorFlow Developer Professional Certificate](https://github.com/prakadeesh01/TensorFlow-Developer-Professional-Certificate): Course materials, completed assignments, and certificates from the DeepLearning.AI TensorFlow Developer Professional Certificate offered on Coursera.
-
-- [Natural Language Processing Specialization](https://github.com/prakadeesh01/Natural-Language-Processing-Specialization): Personal solutions and learning progress for the Natural Language Processing Specialization by DeepLearning.AI.
 
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
