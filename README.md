@@ -21,17 +21,11 @@ Currently, I am exploring **Retrieval-Augmented Generation (RAG)** and **AI agen
 I am passionate about transforming complex data into **actionable insights** and building **intelligent systems** that solve real-world problems.
 
 <br>
-
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img alt="Don't Click This" src="data:image/svg+xml;utf8,
-      <svg xmlns='http://www.w3.org/2000/svg' width='180' height='28'>
-        <rect rx='4' ry='4' width='180' height='28' fill='%23FF0000'/>
-        <text x='90' y='18' font-family='Verdana, Geneva, sans-serif' font-size='12' fill='white' text-anchor='middle' alignment-baseline='middle'>Don't Click This</text>
-      </svg>"/>
-  </a>
-</div>
 
+[![Don't Click This](https://img.shields.io/badge/Don't_Click_This-B22222?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+</div>
 <br>
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -40,7 +34,7 @@ I am passionate about transforming complex data into **actionable insights** and
 ## 🚀 Languages & Tools
 
 <div align="center">
-
+  <br>
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />&nbsp;&nbsp;&nbsp;
@@ -51,9 +45,7 @@ I am passionate about transforming complex data into **actionable insights** and
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-
-  <br><br>
-
+  <br>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />&nbsp;&nbsp;&nbsp;
@@ -65,7 +57,6 @@ I am passionate about transforming complex data into **actionable insights** and
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
-
 </div>
 
 
@@ -74,23 +65,24 @@ I am passionate about transforming complex data into **actionable insights** and
 
 ## 🔗 Connect with Me
 
-<div align="center">
-  <a href="https://prakadeesh-portfolio.vercel.app/">
+<div align="center" style="text-decoration:none;">
+  <a href="https://prakadeesh-portfolio.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/prakadeesh01">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/prakadeesh01" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/prakadeesh-k-s/">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prakadeesh-k-s/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://huggingface.co/pragi007">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/pragi007" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/HuggingFace-FEDA3B?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
-  </a>
-  <a href="mailto:prakadeesh01@gmail.com">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:prakadeesh01@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
