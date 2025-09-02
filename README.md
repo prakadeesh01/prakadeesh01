@@ -39,35 +39,35 @@ I am passionate about transforming complex data into **actionable insights** and
 
 ## 🚀 Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+<div align="center">
 
   <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-bottom: 20px;">
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
-    <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" />
-    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+
+  <br><br>
 
   <!-- Row 2 -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JS" />
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-    <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
-    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+
 </div>
+
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
