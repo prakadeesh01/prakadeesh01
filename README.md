@@ -39,72 +39,77 @@ I am passionate about transforming complex data into **actionable insights** and
 
 ## 🚀 Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- Skillicons for common tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" height="50" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
+  <!-- Row 1: Programming Languages & AI/ML -->
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" height="50" />
+  <a href="https://www.cprogramming.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <a href="https://www.tensorflow.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <a href="https://pytorch.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" height="50" />
+
+  <!-- Row 2: Tools -->
+  <a href="https://git-scm.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <a href="https://github.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <a href="https://code.visualstudio.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <a href="https://jupyter.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="Jupyter" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="50" />
+  <a href="https://www.docker.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" height="50" />
+
+  <!-- Row 3: Web & Databases -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JS" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <a href="https://reactjs.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <a href="https://vitejs.dev" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=vite" height="50" alt="Vite" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <a href="https://tailwindcss.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite" height="50" />
+
+  <!-- Row 4: Databases / Others -->
+  <a href="https://www.mongodb.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <a href="https://www.mysql.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <a href="https://www.postgresql.org" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <a href="https://www.djangoproject.com" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" height="50" />
-  </a>
-</div> 
+
+</div>
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
