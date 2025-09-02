@@ -65,23 +65,24 @@ I am passionate about transforming complex data into **actionable insights** and
 
 ## 🔗 Connect with Me
 
-<div align="center" style="text-decoration:none;">
-  <a href="https://prakadeesh-portfolio.vercel.app/" style="text-decoration:none;">
+<div align="center">
+  <a href="https://prakadeesh-portfolio.vercel.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/prakadeesh01" style="text-decoration:none;">
+  <a href="https://github.com/prakadeesh01" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prakadeesh-k-s/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/prakadeesh-k-s/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/pragi007" style="text-decoration:none;">
+  <a href="https://huggingface.co/pragi007" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HuggingFace-FEDA3B?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:prakadeesh01@gmail.com" style="text-decoration:none;">
+  <a href="mailto:prakadeesh01@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
