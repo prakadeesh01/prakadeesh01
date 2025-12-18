@@ -130,7 +130,7 @@ I am passionate about transforming complex data into **actionable insights** and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakadeesh01&layout=compact&theme=radical" alt="Top Languages" style="margin-top: 10px;" />
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ❤️ Made with Love
 
