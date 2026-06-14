@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Prakadeesh K S** — a Computer Science graduate currently pursuing my **MSc in Data Science at the University of Surrey**.
+Hi, I'm **Prakadeesh K S** - a Computer Science graduate currently pursuing my **MSc in Data Science at the University of Surrey**.
 
 I got into AI through a strong interest in **NLP**, building a solid foundation with **PyTorch**, the **Hugging Face ecosystem**, and the major deep learning specializations. As Generative AI reshaped the field, I moved naturally into building with **LLMs**, RAG pipelines, **LangChain**, and **LlamaIndex**.
 
-Along the way I've built projects in **Computer Vision** (spatio-temporal action localisation with video transformers) and **Reinforcement Learning** — and I'm currently exploring **LangGraph** and agentic AI systems.
+Along the way I've built projects in **Computer Vision** (spatio-temporal action localisation with video transformers) and **Reinforcement Learning** - and I'm currently exploring **LangGraph** and agentic AI systems.
 
 <br>
 <div align="center">
