@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Prakadeesh++K+S...;I%E2%80%99m+AI+%26+Data+Enthusiast..;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=500&height=100&lines=Hi++%F0%9F%91%8B+.+.+.;I'm+Prakadeesh++K+S...;MSc+Data+Science+%40+Surrey...;AI+%26+ML+Engineer...;Checkout+my+Github+Profile+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,11 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Prakadeesh K S**, an **AI and Data Science enthusiast**. I completed my **Bachelor’s in Computer Science and Engineering (B.E. CSE)** and have built a strong foundation in **Natural Language Processing (NLP)**.
+Hi, I'm **Prakadeesh K S** — a Computer Science graduate currently pursuing my **MSc in Data Science at the University of Surrey**.
 
-I am familiar with **Large Language Models (LLMs)**, **Hugging Face Transformers**, and various **open-source AI resources**, enabling me to develop and experiment with cutting-edge NLP solutions.
+I got into AI through a strong interest in **NLP**, building a solid foundation with **PyTorch**, the **Hugging Face ecosystem**, and the major deep learning specializations. As Generative AI reshaped the field, I moved naturally into building with **LLMs**, RAG pipelines, **LangChain**, and **LlamaIndex**.
 
-Currently, I am exploring **Retrieval-Augmented Generation (RAG)** and **AI agents**, expanding my expertise in **intelligent systems** and advanced **AI pipelines**.
-
-I am passionate about transforming complex data into **actionable insights** and building **intelligent systems** that solve real-world problems.
+Along the way I've built projects in **Computer Vision** (spatio-temporal action localisation with video transformers) and **Reinforcement Learning** — and I'm currently exploring **LangGraph** and agentic AI systems.
 
 <br>
 <div align="center">
@@ -45,7 +43,7 @@ I am passionate about transforming complex data into **actionable insights** and
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <br>
+  <br><br>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />&nbsp;&nbsp;&nbsp;
@@ -84,12 +82,23 @@ I am passionate about transforming complex data into **actionable insights** and
 </div>
 
 
-
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔧 Featured Projects
 
 <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/video-action-localisation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=video-action-localisation&theme=radical" alt="Video Action Localisation" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prakadeesh01/lunarlander-dqn-ddqn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=lunarlander-dqn-ddqn&theme=radical" alt="LunarLander DQN vs DDQN" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/prakadeesh01/genai_tutorial">
@@ -102,20 +111,7 @@ I am passionate about transforming complex data into **actionable insights** and
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/prakadeesh01/spanglish-net">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=spanglish-net&theme=radical" alt="Spanglish Net" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/prakadeesh01/tldr-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prakadeesh01&repo=tldr-bot&theme=radical" alt="TLDR Bot" />
-      </a>
-    </td>
-  </tr>
 </table>
-
 
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -123,10 +119,7 @@ I am passionate about transforming complex data into **actionable insights** and
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=prakadeesh01&show_icons=true&theme=radical" alt="Prakadeesh's GitHub Stats" />
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakadeesh01&layout=compact&theme=radical" alt="Top Languages" style="margin-top: 10px;" />
 </div>
 
